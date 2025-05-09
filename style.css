@@ -83,6 +83,7 @@ body{
     border-radius: 50%;
     font-size: 1.5rem;
     font-weight: bold;
+    padding-left: 15px;
 }
 .input-area{
     display: flex;
