@@ -1,8 +1,10 @@
 📌 To-Do List Web App
+--------------------------------------------------------------------
 A simple and interactive To-Do List web application built with HTML, CSS, and JavaScript.
-This app allows users to manage daily tasks with features like:
+This app allows users to manage daily tasks. 
 
 ✨ Features
+---------------------------------------------------------------------
 ✅ Add, Edit, and Delete Tasks
 
 🕒 Automatic Date & Time Stamp on every new task
@@ -18,6 +20,7 @@ This app allows users to manage daily tasks with features like:
 🚫 Edit disabled for completed tasks
 
 💾 Tech Stack
+-----------------------------------------------------------------------
 HTML – Structure
 
 CSS – Styling & Layout
@@ -25,6 +28,7 @@ CSS – Styling & Layout
 JavaScript – Logic, DOM Manipulation, LocalStorage
 
 How to Use
+----------------------------------------------------------
 Clone the repository:
 git clone https://github.com/yourusername/your-repo-name.git
 Open index.html in your browser.
